@@ -1,3 +1,9 @@
+pixel-wallpaper (0.1-1.1) jessie; urgency=medium
+
+  * Package architecture updated
+
+ -- Simon Long <simon@raspberrypi.org>  Thu, 06 Oct 2016 16:20:42 +0100
+
 pixel-wallpaper (0.1-1) unstable; urgency=low
 
   * Initial release
