@@ -1,3 +1,9 @@
+pixel-wallpaper (0.3) jessie; urgency=medium
+
+  * License text updated
+
+ -- Simon Long <simon@raspberrypi.org>  Tue, 17 Jan 2017 10:52:44 +0000
+
 pixel-wallpaper (0.2) jessie; urgency=medium
 
   * Convert to native package
