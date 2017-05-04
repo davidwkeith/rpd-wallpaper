@@ -36,7 +36,7 @@ Iceland and the Faroe Islands.
 Agreement:
 The photographer grants the Licensee the non-exclusive, non-transferable and non- 
 assignable use of all images named above for 10 years, for the purpose of use as the 
-default wallpaper included within the PIXEL desktop, distributed by the 
+default wallpaper included within the Raspberry Pi Desktop, distributed by the 
 Raspberry Pi Foundation. The licence is “digital only” and for medium resolution 
 (long edge at 1920px), images shall not be used in any other form (such as in print 
 publications) nor for any commercial activities. However, use of the images to promote 

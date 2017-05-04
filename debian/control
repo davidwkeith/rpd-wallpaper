@@ -1,4 +1,4 @@
-Source: pixel-wallpaper
+Source: rpd-wallpaper
 Section: x11
 Priority: optional
 Maintainer: Simon Long <simon@raspberrypi.org>
@@ -7,7 +7,17 @@ Standards-Version: 3.9.5
 Homepage: http://raspberrypi.org/
 
 Package: pixel-wallpaper
+Depends: rpd-wallpaper, ${misc:Depends}
+Architecture: all
+Priority: extra
+Section: oldlibs
+Description: transitional package
+ This is a transitional package. It can safely be removed.
+
+Package: rpd-wallpaper
+Replaces: pixel-wallpaper (<< 0.3-1~)
+Breaks: pixel-wallpaper (<< 0.3-1~)
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Wallpaper for PIXEL
- Custom wallpaper graphic files for PIXEL desktop environment.
+Description: Wallpaper for Raspberry Pi Desktop
+ Custom wallpaper graphic files for Raspberry Pi Desktop environment.
